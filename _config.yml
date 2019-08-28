@@ -67,14 +67,14 @@ gitalk:
   #是否开启Gitalk评论
   enable: true
   #生成的clientID
-  clientID: bde9d2bff0cd1048efeb
+  clientID: dc46b9377c7f8debd403
   #生成的clientSecret
-  clientSecret: 4be7e16501b7e64eb16568815fe5948fc3007ad1
+  clientSecret: 412d08f06c789886fe4290eece0fc715159bb199
   #仓库名称
-  repo: superzhoudalu.github.io
+  repo: SuperNu.github.io
   #github用户名
-  owner: superZhouDaLu
-  admin: superZhouDaLu
+  owner: SuperNu
+  admin: SuperNu
   #是否启用类似FB的阴影遮罩
   distractionFreeMode: true
 
