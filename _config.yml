@@ -29,13 +29,13 @@ RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
 weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     Zhoudalu
+zhihu_username:     zhen-lue-meng-95-95
 # GitHub个人页面 填写用户名
-github_username:    superZhouDaLu
+github_username:    SuperNu
 # facebook个人页面 填写用户名
 #facebook_username:  100024292873470
 # 简书个人页面截取用户编号 与微博同理
-jianshu_username:   56a2c6b6027c
+jianshu_username:   30a3617d59f2
 # twitter个人页面 填写用户名
 #twitter_username:   zhoudalu
 
@@ -103,13 +103,13 @@ friends: [
         title: "IT资源网",
         href: "https://www.itresource.org/forum-37-1.html"
     },{
-        title: "鸡大婶",
-        href: "https://github.com/ruinszero"
+        title: "js代码网",
+        href: "https://www.jsdaima.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "java1234",
+        href: "http://download.java1234.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "酷壳",
+        href: "https://coolshell.cn/"
     }
 ]
