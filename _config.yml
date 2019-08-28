@@ -2,17 +2,17 @@
 # 标题
 title: Blog
 # 选项卡标题
-SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
+SEOTitle: 🦌 | 🦅💻⚪ Blog
 # 首页背景图片
 header-img: img/post-bg-debug.png
 # 邮箱设置
-email: zhoujianlu666@gmail.com
+email: 18615371082@163.com
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
-keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
+keyword: "Java, Vue.js"
 # 博客访问链接
-url: "https://aigq.me"
+url: "https://SuperNu/SuperNu.github.io"
 # '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 
@@ -20,7 +20,7 @@ baseurl: ""
 # 是否开启侧边栏 true 开始 false 关闭
 sidebar: true
 # 侧边栏描述语句
-sidebar-about-description: "知识就是力量。"
+sidebar-about-description: "WHY CLIMB MOUNT EVEREST? 'BECAUSE IT'S THERE'"
 # 侧边栏头像
 sidebar-avatar: /img/sidebar-avatar.jpg
 
@@ -100,8 +100,8 @@ service-worker: true
 ## 友情链接
 friends: [
     {
-        title: "帅超",
-        href: "https://github.com/shuaichaoA"
+        title: "IT资源网",
+        href: "https://www.itresource.org/forum-37-1.html"
     },{
         title: "鸡大婶",
         href: "https://github.com/ruinszero"
